@@ -10,7 +10,7 @@ body {
 
 /*NAVBAR*/
 .navbar {
-  background-color: #31b0d5;
+  background-color: #127794;
   position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
@@ -35,7 +35,7 @@ body {
 /*JUMBOTRON*/
 .jumbotron {
   height: 50%; /*height to 100% of view height*/
-  background: #31b0d5; /*background color to blue*/
+  background: #0a415a; /*background color to blue*/
   margin-bottom: 0; /*no bottom margin*/
 
   display: flex;
@@ -234,7 +234,7 @@ h4 {
 
 /*CONTACT*/
 .blue {
-  background: #3498db;
+  background: #0a415a;
   text-align: center;
 }
 
